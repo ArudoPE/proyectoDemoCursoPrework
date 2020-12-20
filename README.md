@@ -1,3 +1,2 @@
 # proyectoDemoCursoPrework
-hi
-Repositorio de pruebas de que configuramos el SSH de manera correcta
+Hi, this a repositorio de pruebas de que configuramos el SSH de manera correcta
